@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\10. ArrayMethods\ArrayMethods-Homework\ArrayMethods-Homework\bin\ArrayMethods-Homework.dll.config
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\10. ArrayMethods\ArrayMethods-Homework\ArrayMethods-Homework\bin\ArrayMethods-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\10. ArrayMethods\ArrayMethods-Homework\ArrayMethods-Homework\bin\ArrayMethods-Homework.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\10. ArrayMethods\ArrayMethods-Homework\ArrayMethods-Homework\obj\Debug\ArrayMethods-Homework.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\10. ArrayMethods\ArrayMethods-Homework\ArrayMethods-Homework\obj\Debug\ArrayMethods-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\10. ArrayMethods\ArrayMethods-Homework\ArrayMethods-Homework\obj\Debug\ArrayMethods-Homework.pdb

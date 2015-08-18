@@ -1,0 +1,50 @@
+﻿body {
+    background-color:#a9a9a9;
+}
+
+header{
+    text-align:center;
+    color:white;
+}
+
+header nav ul {
+    list-style-type:none;
+}
+
+body > header h1 {
+    font-size:40px;
+}
+
+body > header > nav ul a {
+    text-decoration:none;
+    color:white;
+    font-size: 22px;
+    font-weight:600;
+}
+
+body > header > nav ul a:hover{
+    text-decoration:underline;
+}
+
+body > header > nav ul a.current{
+    background-color: #d3d3d3;
+}
+
+article header h1{
+    color:#f8fad3;
+    font-size:28px;
+    text-align:left;
+}
+
+article footer{
+    font-size: 14px;
+}
+
+article footer a {
+    text-decoration:none;
+    color:black;
+}
+
+body > footer {
+    text-align:center;
+}

@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\06. Loops\Loops-Homework\Loops-Homework\bin\Loops-Homework.dll.config
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\06. Loops\Loops-Homework\Loops-Homework\bin\Loops-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\06. Loops\Loops-Homework\Loops-Homework\bin\Loops-Homework.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\06. Loops\Loops-Homework\Loops-Homework\obj\Debug\Loops-Homework.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\06. Loops\Loops-Homework\Loops-Homework\obj\Debug\Loops-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\06. Loops\Loops-Homework\Loops-Homework\obj\Debug\Loops-Homework.pdb

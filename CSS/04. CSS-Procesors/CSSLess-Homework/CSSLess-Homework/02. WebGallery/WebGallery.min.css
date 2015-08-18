@@ -1,0 +1,1 @@
+﻿body,ul,label,div,input{margin:0;padding:0}body{text-align:center}body ul{list-style-type:none;padding-top:10px}body ul li{display:inline-block}body ul li img{width:70px}body ul li img:hover{cursor:pointer}body div{padding:20px}body div input{display:block;display:none}body div input+img{width:180px;display:block;display:none}body div input:checked+img{display:block}

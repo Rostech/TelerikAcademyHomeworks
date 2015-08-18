@@ -1,0 +1,49 @@
+﻿
+body, ul, label, div, input{
+    margin:0;
+    padding:0;
+}
+
+body{
+    text-align:center;
+    
+
+    ul{
+        list-style-type:none;
+        padding-top:10px;
+        li{
+            display:inline-block;
+
+            img{
+                width:70px;
+
+                &:hover{
+                    cursor:pointer;
+                }
+            }
+        }
+    }
+
+    div{
+        padding:20px;
+        
+        input{
+            display:block;
+            display:none;
+
+            & + img{
+                width:180px;
+                display:block;
+                display:none;
+            }
+
+            &:checked + img{
+                display:block;
+            }
+        }        
+
+       
+    }
+}
+
+

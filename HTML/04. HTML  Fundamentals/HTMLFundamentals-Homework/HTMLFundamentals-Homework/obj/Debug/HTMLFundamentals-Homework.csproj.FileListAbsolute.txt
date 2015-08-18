@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\HTML\04. HTML  Fundamentals\HTMLFundamentals-Homework\HTMLFundamentals-Homework\bin\HTMLFundamentals-Homework.dll.config
+C:\Users\Rostislav\Documents\Telerik Academy\HTML\04. HTML  Fundamentals\HTMLFundamentals-Homework\HTMLFundamentals-Homework\bin\HTMLFundamentals-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\HTML\04. HTML  Fundamentals\HTMLFundamentals-Homework\HTMLFundamentals-Homework\bin\HTMLFundamentals-Homework.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\HTML\04. HTML  Fundamentals\HTMLFundamentals-Homework\HTMLFundamentals-Homework\obj\Debug\HTMLFundamentals-Homework.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\HTML\04. HTML  Fundamentals\HTMLFundamentals-Homework\HTMLFundamentals-Homework\obj\Debug\HTMLFundamentals-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\HTML\04. HTML  Fundamentals\HTMLFundamentals-Homework\HTMLFundamentals-Homework\obj\Debug\HTMLFundamentals-Homework.pdb

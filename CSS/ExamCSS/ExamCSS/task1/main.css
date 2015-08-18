@@ -1,0 +1,65 @@
+﻿body, div, ul, label, p, input, li{
+   padding:0;
+   margin: 0;
+   font-family:Arial;
+   font-size: 14px;
+}
+
+div#root{
+    width:500px;
+    background-color:#205D99;
+    margin:8px;
+}
+
+ul{
+    list-style-type:none;
+}
+
+ul li{
+    border-bottom: 3px solid #7EB3E7;
+}
+
+li>input {
+    display:none;
+}
+
+li label{
+    color:#D7EFF9;
+    font-size:15px;
+    display:block;
+    text-align:center;  
+    font-size:21px;
+    padding: 15px 0;
+}
+
+li div.preview{
+    display:none;
+}
+
+li div.preview img{
+    width:200px;
+    display:block;
+    float:left;
+    border: 15px solid #79AEE3;
+    border-radius: 15px;
+    margin:15px;
+    margin-right:10px;
+}
+
+li div.preview p{
+    color:#dcffff;
+    text-align:justify;
+    padding:15px;
+    box-sizing:border-box;
+}
+
+li input:checked + label{
+    font-weight: bold;
+    font-size:24px;
+    color:#A9CBEB;
+}
+
+li input:checked +label+ div.preview{
+    display:block;
+   
+}

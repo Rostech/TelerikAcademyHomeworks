@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\12. RegularExpressions\RegularExpressions-Homework\RegularExpressions-Homework\bin\RegularExpressions-Homework.dll.config
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\12. RegularExpressions\RegularExpressions-Homework\RegularExpressions-Homework\bin\RegularExpressions-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\12. RegularExpressions\RegularExpressions-Homework\RegularExpressions-Homework\bin\RegularExpressions-Homework.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\12. RegularExpressions\RegularExpressions-Homework\RegularExpressions-Homework\obj\Debug\RegularExpressions-Homework.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\12. RegularExpressions\RegularExpressions-Homework\RegularExpressions-Homework\obj\Debug\RegularExpressions-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\12. RegularExpressions\RegularExpressions-Homework\RegularExpressions-Homework\obj\Debug\RegularExpressions-Homework.pdb

@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\CSS\01. CSS-Overview\CSSOverview-Homework\CSSOverview-Homework\bin\CSSOverview-Homework.dll.config
+C:\Users\Rostislav\Documents\Telerik Academy\CSS\01. CSS-Overview\CSSOverview-Homework\CSSOverview-Homework\bin\CSSOverview-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\CSS\01. CSS-Overview\CSSOverview-Homework\CSSOverview-Homework\bin\CSSOverview-Homework.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\CSS\01. CSS-Overview\CSSOverview-Homework\CSSOverview-Homework\obj\Debug\CSSOverview-Homework.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\CSS\01. CSS-Overview\CSSOverview-Homework\CSSOverview-Homework\obj\Debug\CSSOverview-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\CSS\01. CSS-Overview\CSSOverview-Homework\CSSOverview-Homework\obj\Debug\CSSOverview-Homework.pdb

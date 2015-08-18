@@ -1,0 +1,113 @@
+﻿body{
+    margin:0;
+    padding:0;
+}
+
+body > section{
+    background-color:#3b3b3b;
+    width:660px;
+    border-radius:8px;
+}
+
+body > section > header {
+    background-color:#373737;
+    background-image:url('images/shadow.png');
+    background-position-y:-1px;
+    background-position-x:-100px;
+}
+
+    body > section > header img[src='images/logo.png']
+    {
+        float:left;
+        margin:5px;
+    }
+    
+    header form{
+        height:50px;
+        padding:10px 5px;
+    }
+
+    header label{
+        color:white;
+        font-family:Georgia;
+        font-size: 21px;
+        font-weight:bold;
+        margin:10px;
+        display:inline-block;
+    }
+
+    header input.inputField {
+        height:15px;
+        width: 140px;
+        margin: 11px 25px 0 -5px;
+        vertical-align:top;
+        display:inline-block;
+    }
+
+    header p#btn{
+        border:1px solid #e0e7e2;
+        background-image:url('images/btn.png');
+        background-position-x:-2px;
+        background-position-y: -2px;
+        display:block;
+        width:54px;
+        height:20px;
+        text-align:center;
+        padding-top:6px;
+        color:white;
+        border-radius: 12px;
+        float:right;
+        margin-top:7px;
+        margin-right:5px;
+
+        /*not selecting text properties*/
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+
+    header p#btn:hover{
+        cursor:pointer;
+    }
+
+    header p#btn:active{
+        border-top:1px solid #de0804;
+        border-left:1px solid #de0804;
+        border-right:1px solid #ec8278;
+        border-bottom:1px solid #ec8278;        
+        border-style:inset;
+    }
+
+    #content{
+        padding: 0 10px;
+    }
+
+    #content h1{
+        margin:15px 0;
+        color:#fdde15;
+        font-family:Georgia;
+        font-size:29px;
+        font-weight:400;
+    }
+
+    #content p{
+        font-family:Calibri;
+        font-size:15.5px;
+        font-weight:100;
+        color: #b4b4b4;
+        width:542px;
+        padding-bottom:10px;
+    }
+
+    #content p a{
+        color: #b4b4b4;
+        text-decoration:none;
+        cursor:text;
+    }
+
+    #content p span{
+        color:white;
+    }

@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\CSS\02. CSS-Presentation\CSSPresentation-Homework\CSSPresentation-Homework\bin\CSSPresentation-Homework.dll.config
+C:\Users\Rostislav\Documents\Telerik Academy\CSS\02. CSS-Presentation\CSSPresentation-Homework\CSSPresentation-Homework\bin\CSSPresentation-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\CSS\02. CSS-Presentation\CSSPresentation-Homework\CSSPresentation-Homework\bin\CSSPresentation-Homework.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\CSS\02. CSS-Presentation\CSSPresentation-Homework\CSSPresentation-Homework\obj\Debug\CSSPresentation-Homework.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\CSS\02. CSS-Presentation\CSSPresentation-Homework\CSSPresentation-Homework\obj\Debug\CSSPresentation-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\CSS\02. CSS-Presentation\CSSPresentation-Homework\CSSPresentation-Homework\obj\Debug\CSSPresentation-Homework.pdb

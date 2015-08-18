@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\05. Conditional-Statements\ConditionalStatements-Homework\ConditionalStatements-Homework\bin\ConditionalStatements-Homework.dll.config
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\05. Conditional-Statements\ConditionalStatements-Homework\ConditionalStatements-Homework\bin\ConditionalStatements-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\05. Conditional-Statements\ConditionalStatements-Homework\ConditionalStatements-Homework\bin\ConditionalStatements-Homework.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\05. Conditional-Statements\ConditionalStatements-Homework\ConditionalStatements-Homework\obj\Debug\ConditionalStatements-Homework.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\05. Conditional-Statements\ConditionalStatements-Homework\ConditionalStatements-Homework\obj\Debug\ConditionalStatements-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\05. Conditional-Statements\ConditionalStatements-Homework\ConditionalStatements-Homework\obj\Debug\ConditionalStatements-Homework.pdb

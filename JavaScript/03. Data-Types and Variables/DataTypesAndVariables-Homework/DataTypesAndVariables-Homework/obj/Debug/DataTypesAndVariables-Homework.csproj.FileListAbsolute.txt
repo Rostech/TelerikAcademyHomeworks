@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\03. Data-Types and Variables\DataTypesAndVariables-Homework\DataTypesAndVariables-Homework\bin\DataTypesAndVariables-Homework.dll.config
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\03. Data-Types and Variables\DataTypesAndVariables-Homework\DataTypesAndVariables-Homework\bin\DataTypesAndVariables-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\03. Data-Types and Variables\DataTypesAndVariables-Homework\DataTypesAndVariables-Homework\bin\DataTypesAndVariables-Homework.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\03. Data-Types and Variables\DataTypesAndVariables-Homework\DataTypesAndVariables-Homework\obj\Debug\DataTypesAndVariables-Homework.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\03. Data-Types and Variables\DataTypesAndVariables-Homework\DataTypesAndVariables-Homework\obj\Debug\DataTypesAndVariables-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\03. Data-Types and Variables\DataTypesAndVariables-Homework\DataTypesAndVariables-Homework\obj\Debug\DataTypesAndVariables-Homework.pdb

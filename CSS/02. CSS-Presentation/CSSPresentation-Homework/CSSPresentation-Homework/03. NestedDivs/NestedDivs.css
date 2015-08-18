@@ -1,0 +1,15 @@
+﻿div{
+    background-color:black;
+    border:1px solid red;
+    width:93%;
+    height:98%;
+    display:inline-block;
+    overflow:hidden;
+    border-radius:100px;
+}
+
+div#first{
+    padding-right: 50px;
+    height:100px;
+    width:800px;
+}

@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\04. Operators-Expressions\OperatorsExpressions-Homework\OperatorsExpressions-Homework\bin\OperatorsExpressions-Homework.dll.config
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\04. Operators-Expressions\OperatorsExpressions-Homework\OperatorsExpressions-Homework\bin\OperatorsExpressions-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\04. Operators-Expressions\OperatorsExpressions-Homework\OperatorsExpressions-Homework\bin\OperatorsExpressions-Homework.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\04. Operators-Expressions\OperatorsExpressions-Homework\OperatorsExpressions-Homework\obj\Debug\OperatorsExpressions-Homework.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\04. Operators-Expressions\OperatorsExpressions-Homework\OperatorsExpressions-Homework\obj\Debug\OperatorsExpressions-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\04. Operators-Expressions\OperatorsExpressions-Homework\OperatorsExpressions-Homework\obj\Debug\OperatorsExpressions-Homework.pdb

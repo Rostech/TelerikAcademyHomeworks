@@ -1,0 +1,94 @@
+﻿body {
+    margin-left:auto;
+    margin-right:auto;
+    max-width:900px;
+    min-width:900px;
+    font-family:Georgia, serif;
+    overflow: auto;
+    height: 580px;
+    border:2px solid black;
+    border-radius:7px;
+}
+
+header {
+    text-align:center;
+    font-size: 20px;
+}
+
+header a{
+    color:#0094ff
+}
+
+hr {
+    width: 95%;
+    margin-right:auto;
+    margin-left:auto;
+    height: 2px;
+    background-color:darkgray;
+}
+
+section {
+    width:570px;
+    min-width:570px;
+    max-width:570px;
+    border: 2px solid black;
+    margin: 4px;
+    padding: 5px;
+    padding-right:0px;
+    overflow:visible;
+    min-width: 600px;
+    float:left;
+}
+
+img {
+    width:120px;
+    height:100px;
+    min-height:100px;
+}
+
+fieldset {
+    float:left;
+    width: 250px;
+    height: 150px;
+    min-height:150px;
+    border-color:black;
+}
+
+    fieldset img{
+        display:block;
+        float:left;
+    }
+
+    fieldset div{
+        float:left;
+        margin-left: 20px;
+    }
+    fieldset div.intel{
+        margin-left: 60px;
+    }
+        fieldset div.ssd {
+            margin-left:27px;
+            margin-top: 20px;
+        }
+        fieldset div.ddr {
+            margin-left:27px;
+            margin-top: 20px;
+        }
+
+.clearfix {
+    clear:left;
+}
+
+aside {
+    float:left;
+    margin-left:45px;
+    margin-top: 80px;
+    display:block;
+    width: 200px;
+    font-size:20px;
+}
+
+input[type="range"] {
+    width: 220px;
+}
+

@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\09. UsingObjects\UsingObjects-Homework\UsingObjects-Homework\bin\UsingObjects-Homework.dll.config
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\09. UsingObjects\UsingObjects-Homework\UsingObjects-Homework\bin\UsingObjects-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\09. UsingObjects\UsingObjects-Homework\UsingObjects-Homework\bin\UsingObjects-Homework.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\09. UsingObjects\UsingObjects-Homework\UsingObjects-Homework\obj\Debug\UsingObjects-Homework.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\09. UsingObjects\UsingObjects-Homework\UsingObjects-Homework\obj\Debug\UsingObjects-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\09. UsingObjects\UsingObjects-Homework\UsingObjects-Homework\obj\Debug\UsingObjects-Homework.pdb

@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\07. Arrays\Arrays-Homework\Arrays-Homework\bin\Arrays-Homework.dll.config
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\07. Arrays\Arrays-Homework\Arrays-Homework\bin\Arrays-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\07. Arrays\Arrays-Homework\Arrays-Homework\bin\Arrays-Homework.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\07. Arrays\Arrays-Homework\Arrays-Homework\obj\Debug\Arrays-Homework.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\07. Arrays\Arrays-Homework\Arrays-Homework\obj\Debug\Arrays-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\07. Arrays\Arrays-Homework\Arrays-Homework\obj\Debug\Arrays-Homework.pdb

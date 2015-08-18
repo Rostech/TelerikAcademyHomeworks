@@ -1,0 +1,98 @@
+﻿body{
+    background-color:#1e3741;
+    border: 1.5px solid #5B8A96;
+    border-radius: 5px;
+    margin:5px auto;
+    width:610px;
+    height:350px;
+    padding: 0px 30px 20px 0px;
+}
+
+body:after{
+        content: "."; 
+        visibility: hidden; 
+        display: block; 
+        height: 0; 
+        clear: both;
+    }
+
+nav a{
+    display:block;
+    text-decoration:none;
+    padding:8px;
+    color:#ACC2AD;
+}
+
+
+
+nav a:hover{
+    color:white;
+}
+
+nav > ul > li > a{
+    color:#92b1b7;
+    background-color:#4b5f67;
+}
+
+nav > ul > li > a:hover{
+    background-color:#1e3741;
+}
+
+nav > ul  li >ul a{
+    background-color:#1e3741;
+}
+
+nav > ul  li >ul a:hover
+{
+    background-color:#00968c;
+}
+
+nav > ul li > ul{
+    width:245px;
+}
+
+nav > ul > li > ul li{
+    border-top:1px solid #374D56;
+}
+
+nav > ul li > ul li:first-child{
+    padding-top: 15px;
+    border-top:none;
+}
+
+nav > ul{
+    margin-top:5px;
+    margin-left:1px;
+    padding:0;
+}
+
+nav > ul > li{
+    margin-right:-2px;
+}
+
+nav > ul li{
+    display:inline-block;
+    list-style:none;
+}
+
+nav > ul li ul{
+    padding:0;
+    display:none;
+}
+
+nav > ul li ul li{
+    display:block;
+}
+
+nav > ul li:hover ul{
+    display:block;
+    position:absolute;
+}
+
+section{
+    float:right;
+}
+
+section img{
+    width:360px;
+}

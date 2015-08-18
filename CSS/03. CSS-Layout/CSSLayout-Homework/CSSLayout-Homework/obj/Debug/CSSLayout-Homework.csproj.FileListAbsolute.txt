@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\CSS\03. CSS-Layout\CSSLayout-Homework\CSSLayout-Homework\bin\CSSLayout-Homework.dll.config
+C:\Users\Rostislav\Documents\Telerik Academy\CSS\03. CSS-Layout\CSSLayout-Homework\CSSLayout-Homework\bin\CSSLayout-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\CSS\03. CSS-Layout\CSSLayout-Homework\CSSLayout-Homework\bin\CSSLayout-Homework.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\CSS\03. CSS-Layout\CSSLayout-Homework\CSSLayout-Homework\obj\Debug\CSSLayout-Homework.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\CSS\03. CSS-Layout\CSSLayout-Homework\CSSLayout-Homework\obj\Debug\CSSLayout-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\CSS\03. CSS-Layout\CSSLayout-Homework\CSSLayout-Homework\obj\Debug\CSSLayout-Homework.pdb

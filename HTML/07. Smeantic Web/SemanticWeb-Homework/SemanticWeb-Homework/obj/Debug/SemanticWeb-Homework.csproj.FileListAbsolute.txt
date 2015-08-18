@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\HTML\07. Smeantic Web\SemanticWeb-Homework\SemanticWeb-Homework\bin\SemanticWeb-Homework.dll.config
+C:\Users\Rostislav\Documents\Telerik Academy\HTML\07. Smeantic Web\SemanticWeb-Homework\SemanticWeb-Homework\bin\SemanticWeb-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\HTML\07. Smeantic Web\SemanticWeb-Homework\SemanticWeb-Homework\bin\SemanticWeb-Homework.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\HTML\07. Smeantic Web\SemanticWeb-Homework\SemanticWeb-Homework\obj\Debug\SemanticWeb-Homework.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\HTML\07. Smeantic Web\SemanticWeb-Homework\SemanticWeb-Homework\obj\Debug\SemanticWeb-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\HTML\07. Smeantic Web\SemanticWeb-Homework\SemanticWeb-Homework\obj\Debug\SemanticWeb-Homework.pdb

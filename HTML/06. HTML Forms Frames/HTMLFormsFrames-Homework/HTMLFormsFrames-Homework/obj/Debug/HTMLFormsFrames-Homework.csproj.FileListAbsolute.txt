@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\HTML\06. HTML Forms Frames\HTMLFormsFrames-Homework\HTMLFormsFrames-Homework\bin\HTMLFormsFrames-Homework.dll.config
+C:\Users\Rostislav\Documents\Telerik Academy\HTML\06. HTML Forms Frames\HTMLFormsFrames-Homework\HTMLFormsFrames-Homework\bin\HTMLFormsFrames-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\HTML\06. HTML Forms Frames\HTMLFormsFrames-Homework\HTMLFormsFrames-Homework\bin\HTMLFormsFrames-Homework.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\HTML\06. HTML Forms Frames\HTMLFormsFrames-Homework\HTMLFormsFrames-Homework\obj\Debug\HTMLFormsFrames-Homework.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\HTML\06. HTML Forms Frames\HTMLFormsFrames-Homework\HTMLFormsFrames-Homework\obj\Debug\HTMLFormsFrames-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\HTML\06. HTML Forms Frames\HTMLFormsFrames-Homework\HTMLFormsFrames-Homework\obj\Debug\HTMLFormsFrames-Homework.pdb

@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\08. Functions\Functions-Homework\Functions-Homework\bin\Functions-Homework.dll.config
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\08. Functions\Functions-Homework\Functions-Homework\bin\Functions-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\08. Functions\Functions-Homework\Functions-Homework\bin\Functions-Homework.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\08. Functions\Functions-Homework\Functions-Homework\obj\Debug\Functions-Homework.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\08. Functions\Functions-Homework\Functions-Homework\obj\Debug\Functions-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\08. Functions\Functions-Homework\Functions-Homework\obj\Debug\Functions-Homework.pdb

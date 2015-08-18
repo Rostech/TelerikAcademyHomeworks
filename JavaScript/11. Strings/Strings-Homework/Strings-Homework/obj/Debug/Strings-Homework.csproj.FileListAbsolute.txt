@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\11. Strings\Strings-Homework\Strings-Homework\bin\Strings-Homework.dll.config
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\11. Strings\Strings-Homework\Strings-Homework\bin\Strings-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\11. Strings\Strings-Homework\Strings-Homework\bin\Strings-Homework.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\11. Strings\Strings-Homework\Strings-Homework\obj\Debug\Strings-Homework.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\11. Strings\Strings-Homework\Strings-Homework\obj\Debug\Strings-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\JavaScript\11. Strings\Strings-Homework\Strings-Homework\obj\Debug\Strings-Homework.pdb

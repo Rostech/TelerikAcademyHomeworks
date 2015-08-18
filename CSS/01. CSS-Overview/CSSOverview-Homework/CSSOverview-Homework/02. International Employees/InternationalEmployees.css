@@ -1,0 +1,64 @@
+﻿table {
+    width: 750px;
+    border-bottom: 2px solid #bfbda2;
+    border-collapse:collapse;
+    border-top:none;
+    border-left:none;
+    border-right:none;
+}
+
+td, th{
+    padding: 7px;
+    border-top:none;
+}
+
+th{
+    text-align: left;
+    font-family: Calibri;
+    font-weight:normal;
+    font-size:18px;
+    background-color:#51b406;
+    color:white;
+    border-right: 2px solid #2b7b04;
+}
+
+img {
+    width: 20px;
+}
+
+tr:nth-child(2n+2){
+    background-color:#ececd8;
+    border-left:none;
+}
+
+td:first-child, th:first-child{
+    border-left:none;
+}
+
+td:last-child, th:last-child{
+    border-right:none;
+}
+
+td:nth-child(n){
+    border-top:none;
+    border-bottom:none;
+}
+
+th{
+    border-bottom: 2px solid #2b7b04;
+}
+
+td {
+    border-right: 2px solid #bfbda2;
+}
+
+input[checked]{
+    
+}
+
+
+
+
+
+
+

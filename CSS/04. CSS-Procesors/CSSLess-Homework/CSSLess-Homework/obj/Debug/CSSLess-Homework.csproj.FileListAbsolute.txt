@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\CSS\04. CSS-Procesors\CSSLess-Homework\CSSLess-Homework\bin\CSSLess-Homework.dll.config
+C:\Users\Rostislav\Documents\Telerik Academy\CSS\04. CSS-Procesors\CSSLess-Homework\CSSLess-Homework\bin\CSSLess-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\CSS\04. CSS-Procesors\CSSLess-Homework\CSSLess-Homework\bin\CSSLess-Homework.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\CSS\04. CSS-Procesors\CSSLess-Homework\CSSLess-Homework\obj\Debug\CSSLess-Homework.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\CSS\04. CSS-Procesors\CSSLess-Homework\CSSLess-Homework\obj\Debug\CSSLess-Homework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\CSS\04. CSS-Procesors\CSSLess-Homework\CSSLess-Homework\obj\Debug\CSSLess-Homework.pdb

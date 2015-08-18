@@ -1,0 +1,100 @@
+﻿body {
+    padding: 0;
+    margin:0;
+    font-family:'Browallia New';
+}
+
+fieldset{
+    background-color:#eee;
+    border-radius:10px;
+    border:0;
+    width:450px;
+    margin:0;
+}
+
+fieldset header h1{
+    font-size:26px;
+    font-weight:300;
+    font-stretch:extra-condensed;
+    margin:5px 5px;
+    letter-spacing:-0.5px;
+    
+}
+
+fieldset > section {
+    border: 1px solid black;
+    background-color: #fff;
+    padding:20px;
+    overflow:auto;
+    width: 90%;
+    margin: 40px 5px 20px;
+}
+
+fieldset section img{
+    float: left;
+    width:140px;
+}
+
+fieldset section.buttons{
+    float:right;
+    margin-top:10px;
+}
+
+fieldset section.buttons button{
+    border-top: 1px solid #f1bdbe;
+    border-right:1px solid #600000;
+    border-bottom:1px solid #600000;
+    border-left:1px solid #ad4a4e;
+    border-style:inset;
+}
+
+fieldset section.buttons button:active{
+    border-style:outset;
+}
+
+fieldset section.buttons button:focus{
+    outline:none;
+}
+
+fieldset section.buttons button span{
+    color:white;
+}
+
+fieldset section.buttons button#listen{
+    background-image:url('images/listen.png');
+    background-position-y:-1px;
+    background-position-x:-1px;
+    height: 26px;
+    width:77px;
+}
+
+fieldset section.buttons button#add{
+    background-image:url('images/add.png');
+    background-position-y:-1px;
+    background-position-x:-1px;
+    height: 26px;
+    width:58px;
+}
+
+fieldset section.buttons:after{
+    content: ".";
+    visibility:hidden;
+    display: block;
+    height:0;
+    clear:both;
+}
+
+fieldset section p{
+    font-size:20px;
+    float:left;
+    width: 50%;
+    height: 90%;
+    margin:0;
+    margin-left:20px;
+    line-height:16px;
+    letter-spacing:-0.2px;
+}
+
+fieldset section p span{
+    font-weight: 600;
+}

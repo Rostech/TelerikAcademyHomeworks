@@ -1,0 +1,199 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Registration form</title>
+</head>
+<body>
+    <form>
+        <table border="1" style="border-collapse:collapse">
+            <colgroup>
+                <col width="100" />
+                <col width="250" />
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td align="center">
+                        <label for="LastName">
+                            <strong>
+                                Last Name
+                            </strong>
+                        </label>
+                    </td>
+                    <td>
+                        <input type="text" id="LastName" style="width:230px" />
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <label for="FistName">
+                            <strong>
+                                First Name
+                            </strong>
+                        </label>
+                    </td>
+                    <td>
+                        <input type="text" id="FistName" style="width:230px" />
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <label for="Address">
+                            <strong>
+                                Address
+                            </strong>
+                        </label>
+                    </td>
+                    <td>
+                        <textarea id="Address" cols="27" rows="3">
+                        </textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <label for="City">
+                            <strong>
+                                City
+                            </strong>
+                        </label>
+                    </td>
+                    <td>
+                        <input type="text" id="City" style="width:150px" />
+                        <label for="State">
+                            State
+                        </label>
+                        <input type="text" id="State" style="width:48px" />
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <label for="Zip">
+                            <strong>
+                                Zip/Postal Code
+                            </strong>
+                        </label>
+                    </td>
+                    <td>
+                        <input type="text" id="Zip" style="width:70px" />
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <label for="Country">
+                            <strong>
+                                Country
+                            </strong>
+                        </label>
+                    </td>
+                    <td>
+                        <select id="Country" style="width:150px">
+                            <option id="1" selected="selected">
+                                Bulgaria
+                            </option>
+                            <option id="2">
+                                Lithuania
+                            </option>
+                            <option id="3">
+                                Maroko
+                            </option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <label for="Phone">
+                            <strong>
+                                Phone(country code, area code, number )
+                            </strong>
+                        </label>
+                    </td>
+                    <td>
+                        (+<input type="tel" id="Phone" style="width:50px" />)
+                        <input type="tel" style="width:50px" />
+                        <input type="tel" style="width:80px" />
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <label for="Email">
+                            <strong>
+                                Email
+                            </strong>
+                        </label>
+                    </td>
+                    <td>
+                        <input type="email" id="Email" style="width:230px" />
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <label for="BirthDate">
+                            <strong>
+                                Birth date
+                            </strong>
+                        </label>
+                    </td>
+                    <td>
+                        <input type="date" id="BirthDate" style="width:170px" />
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <label for="Gender">
+                            <strong>
+                                Gender
+                            </strong>
+                        </label>
+                    </td>
+                    <td>
+                        <select id="Gender">
+                            <option selected="selected">Male</option>
+                            <option>Female</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <label for="StartingDate">
+                            <strong>
+                                Starting date
+                            </strong>
+                        </label>
+                    </td>
+                    <td>
+                        <input type="radio" id="Spring" name="startingDate"/>
+                        <label for="Spring">
+                            Spring 2015
+                        </label>
+                        <input type="radio" id="Summer" name="startingDate" />
+                        <label for="Summer">
+                            Summer 2015
+                        </label>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <label for="Comments">
+                            <strong>
+                                Comments/Questions
+                            </strong>
+                        </label>
+                    </td>
+                    <td>
+                        <textarea id="Comments" cols="27" rows="5">
+
+                        </textarea>
+                    </td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="2" align="center" style="background-color:#87ceeb">
+                        <input type="submit" />
+                        <input type="reset" value="Clean This Form"/>
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+    </form>
+</body>
+</html>
