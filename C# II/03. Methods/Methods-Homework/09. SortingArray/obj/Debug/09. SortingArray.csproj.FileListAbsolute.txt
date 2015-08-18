@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\09. SortingArray\bin\Debug\_09.SortingArray.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\09. SortingArray\bin\Debug\_09.SortingArray.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\09. SortingArray\bin\Debug\_09.SortingArray.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\09. SortingArray\obj\Debug\09. SortingArray.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\09. SortingArray\obj\Debug\_09.SortingArray.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\09. SortingArray\obj\Debug\_09.SortingArray.pdb

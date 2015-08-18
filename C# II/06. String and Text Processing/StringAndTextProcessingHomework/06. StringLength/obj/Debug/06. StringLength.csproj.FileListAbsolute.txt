@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\06. StringLength\bin\Debug\_06.StringLength.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\06. StringLength\bin\Debug\_06.StringLength.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\06. StringLength\bin\Debug\_06.StringLength.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\06. StringLength\obj\Debug\06. StringLength.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\06. StringLength\obj\Debug\_06.StringLength.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\06. StringLength\obj\Debug\_06.StringLength.pdb

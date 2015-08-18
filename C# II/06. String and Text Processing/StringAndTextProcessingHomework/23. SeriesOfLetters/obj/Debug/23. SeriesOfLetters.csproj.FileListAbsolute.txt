@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\23. SeriesOfLetters\bin\Debug\_23.SeriesOfLetters.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\23. SeriesOfLetters\bin\Debug\_23.SeriesOfLetters.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\23. SeriesOfLetters\bin\Debug\_23.SeriesOfLetters.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\23. SeriesOfLetters\obj\Debug\23. SeriesOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\23. SeriesOfLetters\obj\Debug\_23.SeriesOfLetters.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\23. SeriesOfLetters\obj\Debug\_23.SeriesOfLetters.pdb

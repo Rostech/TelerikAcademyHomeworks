@@ -1,0 +1,5 @@
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\04. Numeral Systems\NumeralSystems-Homework\06. BinaryToHexadecimal\bin\Debug\_06.BinaryToHexadecimal.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\04. Numeral Systems\NumeralSystems-Homework\06. BinaryToHexadecimal\bin\Debug\_06.BinaryToHexadecimal.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\04. Numeral Systems\NumeralSystems-Homework\06. BinaryToHexadecimal\bin\Debug\_06.BinaryToHexadecimal.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\04. Numeral Systems\NumeralSystems-Homework\06. BinaryToHexadecimal\obj\Debug\_06.BinaryToHexadecimal.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\04. Numeral Systems\NumeralSystems-Homework\06. BinaryToHexadecimal\obj\Debug\_06.BinaryToHexadecimal.pdb

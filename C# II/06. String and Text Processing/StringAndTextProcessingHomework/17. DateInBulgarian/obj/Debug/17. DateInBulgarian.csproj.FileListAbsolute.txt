@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\17. DateInBulgarian\bin\Debug\_17.DateInBulgarian.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\17. DateInBulgarian\bin\Debug\_17.DateInBulgarian.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\17. DateInBulgarian\bin\Debug\_17.DateInBulgarian.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\17. DateInBulgarian\obj\Debug\17. DateInBulgarian.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\17. DateInBulgarian\obj\Debug\_17.DateInBulgarian.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\17. DateInBulgarian\obj\Debug\_17.DateInBulgarian.pdb

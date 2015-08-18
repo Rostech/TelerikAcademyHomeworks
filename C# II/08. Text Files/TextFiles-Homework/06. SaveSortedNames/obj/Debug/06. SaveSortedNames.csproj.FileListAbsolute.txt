@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\08. Text Files\TextFiles-Homework\06. SaveSortedNames\bin\Debug\_06.SaveSortedNames.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\08. Text Files\TextFiles-Homework\06. SaveSortedNames\bin\Debug\_06.SaveSortedNames.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\08. Text Files\TextFiles-Homework\06. SaveSortedNames\bin\Debug\_06.SaveSortedNames.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\08. Text Files\TextFiles-Homework\06. SaveSortedNames\obj\Debug\06. SaveSortedNames.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\08. Text Files\TextFiles-Homework\06. SaveSortedNames\obj\Debug\_06.SaveSortedNames.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\08. Text Files\TextFiles-Homework\06. SaveSortedNames\obj\Debug\_06.SaveSortedNames.pdb

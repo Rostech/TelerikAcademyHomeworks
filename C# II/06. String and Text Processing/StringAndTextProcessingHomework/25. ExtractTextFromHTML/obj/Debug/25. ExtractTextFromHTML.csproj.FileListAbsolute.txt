@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\25. ExtractTextFromHTML\bin\Debug\_25.ExtractTextFromHTML.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\25. ExtractTextFromHTML\bin\Debug\_25.ExtractTextFromHTML.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\25. ExtractTextFromHTML\bin\Debug\_25.ExtractTextFromHTML.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\25. ExtractTextFromHTML\obj\Debug\25. ExtractTextFromHTML.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\25. ExtractTextFromHTML\obj\Debug\_25.ExtractTextFromHTML.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\25. ExtractTextFromHTML\obj\Debug\_25.ExtractTextFromHTML.pdb

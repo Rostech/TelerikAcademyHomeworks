@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\01. FillTheMatrix\bin\Debug\_01.FillTheMatrix.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\01. FillTheMatrix\bin\Debug\_01.FillTheMatrix.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\01. FillTheMatrix\bin\Debug\_01.FillTheMatrix.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\01. FillTheMatrix\obj\Debug\01. FillTheMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\01. FillTheMatrix\obj\Debug\_01.FillTheMatrix.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\01. FillTheMatrix\obj\Debug\_01.FillTheMatrix.pdb

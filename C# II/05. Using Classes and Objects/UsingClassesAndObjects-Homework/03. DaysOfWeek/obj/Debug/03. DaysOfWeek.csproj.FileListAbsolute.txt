@@ -1,0 +1,5 @@
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\05. Using Classes and Objects\UsingClassesAndObjects-Homework\03. DaysOfWeek\bin\Debug\_03.DaysOfWeek.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\05. Using Classes and Objects\UsingClassesAndObjects-Homework\03. DaysOfWeek\bin\Debug\_03.DaysOfWeek.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\05. Using Classes and Objects\UsingClassesAndObjects-Homework\03. DaysOfWeek\bin\Debug\_03.DaysOfWeek.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\05. Using Classes and Objects\UsingClassesAndObjects-Homework\03. DaysOfWeek\obj\Debug\_03.DaysOfWeek.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\05. Using Classes and Objects\UsingClassesAndObjects-Homework\03. DaysOfWeek\obj\Debug\_03.DaysOfWeek.pdb

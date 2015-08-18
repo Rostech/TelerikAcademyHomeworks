@@ -1,0 +1,5 @@
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\08. Text Files\TextFiles-Homework\08. ReplaceWholeWord\bin\Debug\_08.ReplaceWholeWord.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\08. Text Files\TextFiles-Homework\08. ReplaceWholeWord\bin\Debug\_08.ReplaceWholeWord.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\08. Text Files\TextFiles-Homework\08. ReplaceWholeWord\bin\Debug\_08.ReplaceWholeWord.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\08. Text Files\TextFiles-Homework\08. ReplaceWholeWord\obj\Debug\_08.ReplaceWholeWord.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\08. Text Files\TextFiles-Homework\08. ReplaceWholeWord\obj\Debug\_08.ReplaceWholeWord.pdb

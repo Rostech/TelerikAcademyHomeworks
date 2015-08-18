@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\10. NFactorial\bin\Debug\_10.NFactorial.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\10. NFactorial\bin\Debug\_10.NFactorial.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\10. NFactorial\bin\Debug\_10.NFactorial.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\10. NFactorial\obj\Debug\10. NFactorial.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\10. NFactorial\obj\Debug\_10.NFactorial.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\10. NFactorial\obj\Debug\_10.NFactorial.pdb

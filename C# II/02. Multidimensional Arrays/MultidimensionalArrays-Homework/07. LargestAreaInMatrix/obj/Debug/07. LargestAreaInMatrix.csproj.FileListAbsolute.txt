@@ -1,0 +1,1 @@
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\07. LargestAreaInMatrix\bin\Debug\_07.LargestAreaInMatrix.exe.config

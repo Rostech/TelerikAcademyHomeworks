@@ -1,0 +1,5 @@
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\12. SubstractMultiplyPolynomials\bin\Debug\_12.SubstractMultiplyPolynomials.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\12. SubstractMultiplyPolynomials\bin\Debug\_12.SubstractMultiplyPolynomials.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\12. SubstractMultiplyPolynomials\bin\Debug\_12.SubstractMultiplyPolynomials.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\12. SubstractMultiplyPolynomials\obj\Debug\_12.SubstractMultiplyPolynomials.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\12. SubstractMultiplyPolynomials\obj\Debug\_12.SubstractMultiplyPolynomials.pdb

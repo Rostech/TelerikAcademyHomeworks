@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\15. ReplaceTags\bin\Debug\_15.ReplaceTags.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\15. ReplaceTags\bin\Debug\_15.ReplaceTags.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\15. ReplaceTags\bin\Debug\_15.ReplaceTags.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\15. ReplaceTags\obj\Debug\_15.ReplaceTags.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\15. ReplaceTags\obj\Debug\_15.ReplaceTags.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\06. String and Text Processing\StringAndTextProcessingHomework\15. ReplaceTags\obj\Debug\15. ReplaceTags.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\03. SequenceNMatrix\bin\Debug\_03.SequenceNMatrix.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\03. SequenceNMatrix\bin\Debug\_03.SequenceNMatrix.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\03. SequenceNMatrix\bin\Debug\_03.SequenceNMatrix.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\03. SequenceNMatrix\obj\Debug\03. SequenceNMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\03. SequenceNMatrix\obj\Debug\_03.SequenceNMatrix.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\03. SequenceNMatrix\obj\Debug\_03.SequenceNMatrix.pdb

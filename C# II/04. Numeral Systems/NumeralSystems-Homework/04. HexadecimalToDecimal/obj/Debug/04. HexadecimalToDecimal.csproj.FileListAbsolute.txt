@@ -1,0 +1,1 @@
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\04. Numeral Systems\NumeralSystems-Homework\04. HexadecimalToDecimal\bin\Debug\_04.HexadecimalToDecimal.exe.config

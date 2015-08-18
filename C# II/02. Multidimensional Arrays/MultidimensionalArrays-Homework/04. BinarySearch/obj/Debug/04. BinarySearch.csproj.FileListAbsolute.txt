@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\04. BinarySearch\bin\Debug\_04.BinarySearch.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\04. BinarySearch\bin\Debug\_04.BinarySearch.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\04. BinarySearch\bin\Debug\_04.BinarySearch.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\04. BinarySearch\obj\Debug\04. BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\04. BinarySearch\obj\Debug\_04.BinarySearch.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\04. BinarySearch\obj\Debug\_04.BinarySearch.pdb

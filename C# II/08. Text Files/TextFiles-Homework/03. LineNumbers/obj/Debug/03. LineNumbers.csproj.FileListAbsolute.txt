@@ -1,0 +1,5 @@
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\08. Text Files\TextFiles-Homework\03. LineNumbers\bin\Debug\_03.LineNumbers.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\08. Text Files\TextFiles-Homework\03. LineNumbers\bin\Debug\_03.LineNumbers.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\08. Text Files\TextFiles-Homework\03. LineNumbers\bin\Debug\_03.LineNumbers.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\08. Text Files\TextFiles-Homework\03. LineNumbers\obj\Debug\_03.LineNumbers.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\08. Text Files\TextFiles-Homework\03. LineNumbers\obj\Debug\_03.LineNumbers.pdb

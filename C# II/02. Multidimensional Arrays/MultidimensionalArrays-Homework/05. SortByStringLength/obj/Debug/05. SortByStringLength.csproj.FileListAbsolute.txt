@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\05. SortByStringLength\bin\Debug\_05.SortByStringLength.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\05. SortByStringLength\bin\Debug\_05.SortByStringLength.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\05. SortByStringLength\bin\Debug\_05.SortByStringLength.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\05. SortByStringLength\obj\Debug\05. SortByStringLength.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\05. SortByStringLength\obj\Debug\_05.SortByStringLength.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\02. Multidimensional Arrays\MultidimensionalArrays-Homework\05. SortByStringLength\obj\Debug\_05.SortByStringLength.pdb

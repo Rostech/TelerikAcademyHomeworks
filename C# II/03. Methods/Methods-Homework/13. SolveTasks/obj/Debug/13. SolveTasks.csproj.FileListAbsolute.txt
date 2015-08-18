@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\13. SolveTasks\bin\Debug\_13.SolveTasks.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\13. SolveTasks\bin\Debug\_13.SolveTasks.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\13. SolveTasks\bin\Debug\_13.SolveTasks.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\13. SolveTasks\obj\Debug\13. SolveTasks.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\13. SolveTasks\obj\Debug\_13.SolveTasks.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\13. SolveTasks\obj\Debug\_13.SolveTasks.pdb

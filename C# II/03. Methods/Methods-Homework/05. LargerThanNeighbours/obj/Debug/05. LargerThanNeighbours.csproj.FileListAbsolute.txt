@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\05. LargerThanNeighbours\bin\Debug\_05.LargerThanNeighbours.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\05. LargerThanNeighbours\obj\Debug\05. LargerThanNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\05. LargerThanNeighbours\bin\Debug\_05.LargerThanNeighbours.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\05. LargerThanNeighbours\bin\Debug\_05.LargerThanNeighbours.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\05. LargerThanNeighbours\obj\Debug\_05.LargerThanNeighbours.exe
+C:\Users\Rostislav\Documents\Telerik Academy\C# II\03. Methods\Methods-Homework\05. LargerThanNeighbours\obj\Debug\_05.LargerThanNeighbours.pdb
