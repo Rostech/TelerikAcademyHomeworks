@@ -1,0 +1,8 @@
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\15. Development Tools\Homework\Log4NetExample\Log4NetExample\bin\Debug\Log4NetExample.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\15. Development Tools\Homework\Log4NetExample\Log4NetExample\bin\Debug\Log4NetExample.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\15. Development Tools\Homework\Log4NetExample\Log4NetExample\bin\Debug\Log4NetExample.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\15. Development Tools\Homework\Log4NetExample\Log4NetExample\bin\Debug\log4net.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\15. Development Tools\Homework\Log4NetExample\Log4NetExample\bin\Debug\log4net.xml
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\15. Development Tools\Homework\Log4NetExample\Log4NetExample\obj\Debug\Log4NetExample.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\15. Development Tools\Homework\Log4NetExample\Log4NetExample\obj\Debug\Log4NetExample.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\15. Development Tools\Homework\Log4NetExample\Log4NetExample\obj\Debug\Log4NetExample.pdb

@@ -1,0 +1,32 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ import namespace="System.Linq" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ output extension=".cs" #>
+namespace T4TemplateExample
+{
+	public class TestTemplate
+	{
+		private void <#= DateTime.Now.DayOfWeek #>()
+		{
+			System.Console.WriteLine("Today is {0}", System.DateTime.Now.DayOfWeek);
+		}
+	
+		public void Creeting()
+		{
+			string ho = "";
+			<# 
+				for(int i = 0; i < 2; i++)
+				{  #>
+					ho += "Ho, ";
+				<#}
+			#>
+	
+			ho += "Ho. :) ";
+	
+			System.Console.WriteLine("Hello, World. {0}", ho);
+			<#= System.DateTime.Now.DayOfWeek#>();
+		}
+	}
+}

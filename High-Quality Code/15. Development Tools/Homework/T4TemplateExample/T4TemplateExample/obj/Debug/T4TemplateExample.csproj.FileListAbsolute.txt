@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\15. Development Tools\Homework\T4TemplateExample\T4TemplateExample\bin\Debug\T4TemplateExample.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\15. Development Tools\Homework\T4TemplateExample\T4TemplateExample\obj\Debug\T4TemplateExample.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\15. Development Tools\Homework\T4TemplateExample\T4TemplateExample\bin\Debug\T4TemplateExample.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\15. Development Tools\Homework\T4TemplateExample\T4TemplateExample\bin\Debug\T4TemplateExample.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\15. Development Tools\Homework\T4TemplateExample\T4TemplateExample\obj\Debug\T4TemplateExample.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\15. Development Tools\Homework\T4TemplateExample\T4TemplateExample\obj\Debug\T4TemplateExample.pdb
