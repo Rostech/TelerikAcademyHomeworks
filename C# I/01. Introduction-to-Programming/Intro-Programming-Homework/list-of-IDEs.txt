@@ -1,0 +1,40 @@
+1. NetBeans
+NetBeans is an intuitive interface with project templates, binary and 
+static libraries, and many useful functions to make your life simpler, 
+NetBeans is a popular IDE for C and C++ projects. It also supports 
+Fortan and Assembler files, with GNU Debugger Integration and code 
+assistance, NetBeans is a functional IDE for editing existing projects, 
+building on templates or building from scratch on most leading platforms.
+
+2. Xcode
+Xcode IDE is a component of Xcode 5, a complete set of tools for building 
+and deploying apps in the Apple environment. It’s integrated with the 
+Cocoa and Cocoa Touch frameworks for streamlined development of apps 
+for the Mac, iPhone and iPad. It’s designed for a seamless workflow to 
+move from start to finish in a single interface, with built-in 
+communication with the Apple Developer website for one-click enablement 
+of services like Game Center or Passbook, allowing you to create more 
+robust, highly-functional apps in a fraction of the time.
+
+3. MonoDevelop
+MonoDevelop is a free GNOME IDE designed primarily for C# and other .NET 
+languages, but it’s open to most any language and has some variation in 
+supported languages across platforms. MonoDevelop enables the rapid 
+development of  desktop and ASP.NET web applications for Windows, Linux 
+and Mac platforms, with the option to port applications created with 
+Visual Studio to Max and Linux platforms, allowing for a consistent code 
+base across platforms.
+
+4. MariaMole
+MariaMole is an Arduino IDE for advanced developers as well as beginners. 
+An open-source project, MariaMole currently runs on Windows, but Linux and 
+MacOS compatibility is in the works, according to the developer. It runs 
+over your existing Arduino install, maintaining all of your pre-set 
+configurations. It can also run side-by-side with Arduino.
+
+4. Steel Developer
+Ruby in Steel Developer 2 is the only professional Ruby development 
+tool for Visual Studio. With comprehensive development support for 
+Ruby and Rails, coupled with IntelliSense, sophisticated debugging 
+and editing tools, Ruby in Steel Developer 2 is your must-have IDE 
+for Ruby.

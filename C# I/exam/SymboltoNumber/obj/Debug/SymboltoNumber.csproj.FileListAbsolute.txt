@@ -1,0 +1,5 @@
+C:\Users\Rostislav\Desktop\Solution1\SymboltoNumber\bin\Debug\SymboltoNumber.exe.config
+C:\Users\Rostislav\Desktop\Solution1\SymboltoNumber\bin\Debug\SymboltoNumber.exe
+C:\Users\Rostislav\Desktop\Solution1\SymboltoNumber\bin\Debug\SymboltoNumber.pdb
+C:\Users\Rostislav\Desktop\Solution1\SymboltoNumber\obj\Debug\SymboltoNumber.exe
+C:\Users\Rostislav\Desktop\Solution1\SymboltoNumber\obj\Debug\SymboltoNumber.pdb

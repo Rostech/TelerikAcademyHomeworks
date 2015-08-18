@@ -1,0 +1,6 @@
+C# and C#.NET are the same thing... C#
+.NET is, as you say, a library of code that .NET languages 
+can talk to..NET languages come in different flavours such 
+as: C#.NET, VB.NET, Managed C++, F#..NET languages compile 
+to CIL ([Common Intermediate Language][1]) which means they 
+all start "talking" the same language and can therefore interoperate.

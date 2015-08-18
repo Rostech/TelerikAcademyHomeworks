@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Desktop\Solution1\FindBits\bin\Debug\FindBits.exe.config
+C:\Users\Rostislav\Desktop\Solution1\FindBits\bin\Debug\FindBits.exe
+C:\Users\Rostislav\Desktop\Solution1\FindBits\bin\Debug\FindBits.pdb
+C:\Users\Rostislav\Desktop\Solution1\FindBits\obj\Debug\FindBits.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Desktop\Solution1\FindBits\obj\Debug\FindBits.exe
+C:\Users\Rostislav\Desktop\Solution1\FindBits\obj\Debug\FindBits.pdb

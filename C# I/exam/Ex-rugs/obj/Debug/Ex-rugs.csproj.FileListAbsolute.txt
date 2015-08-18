@@ -1,0 +1,5 @@
+C:\Users\Rostislav\Desktop\Solution1\Ex-rugs\bin\Debug\Ex-rugs.exe.config
+C:\Users\Rostislav\Desktop\Solution1\Ex-rugs\bin\Debug\Ex-rugs.exe
+C:\Users\Rostislav\Desktop\Solution1\Ex-rugs\bin\Debug\Ex-rugs.pdb
+C:\Users\Rostislav\Desktop\Solution1\Ex-rugs\obj\Debug\Ex-rugs.exe
+C:\Users\Rostislav\Desktop\Solution1\Ex-rugs\obj\Debug\Ex-rugs.pdb

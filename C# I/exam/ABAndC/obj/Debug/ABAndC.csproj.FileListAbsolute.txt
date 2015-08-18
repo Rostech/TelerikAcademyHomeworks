@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Desktop\Solution1\ABAndC\bin\Debug\ABAndC.exe.config
+C:\Users\Rostislav\Desktop\Solution1\ABAndC\bin\Debug\ABAndC.exe
+C:\Users\Rostislav\Desktop\Solution1\ABAndC\bin\Debug\ABAndC.pdb
+C:\Users\Rostislav\Desktop\Solution1\ABAndC\obj\Debug\ABAndC.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Desktop\Solution1\ABAndC\obj\Debug\ABAndC.exe
+C:\Users\Rostislav\Desktop\Solution1\ABAndC\obj\Debug\ABAndC.pdb
