@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\05. Object-Oriented-Programming-Principles-Part2\OOPPrinciplesPart2Homework\BankAccounts\bin\Debug\BankAccounts.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\05. Object-Oriented-Programming-Principles-Part2\OOPPrinciplesPart2Homework\BankAccounts\obj\Debug\BankAccounts.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\05. Object-Oriented-Programming-Principles-Part2\OOPPrinciplesPart2Homework\BankAccounts\bin\Debug\BankAccounts.exe
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\05. Object-Oriented-Programming-Principles-Part2\OOPPrinciplesPart2Homework\BankAccounts\bin\Debug\BankAccounts.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\05. Object-Oriented-Programming-Principles-Part2\OOPPrinciplesPart2Homework\BankAccounts\obj\Debug\BankAccounts.exe
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\05. Object-Oriented-Programming-Principles-Part2\OOPPrinciplesPart2Homework\BankAccounts\obj\Debug\BankAccounts.pdb

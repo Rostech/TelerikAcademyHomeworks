@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\04. Object-Oriented-Programming-Principles-Part1\OOPPrinciplesPart1Homework\AnimalHierarchy\bin\Debug\AnimalHierarchy.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\04. Object-Oriented-Programming-Principles-Part1\OOPPrinciplesPart1Homework\AnimalHierarchy\obj\Debug\AnimalHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\04. Object-Oriented-Programming-Principles-Part1\OOPPrinciplesPart1Homework\AnimalHierarchy\bin\Debug\AnimalHierarchy.exe
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\04. Object-Oriented-Programming-Principles-Part1\OOPPrinciplesPart1Homework\AnimalHierarchy\bin\Debug\AnimalHierarchy.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\04. Object-Oriented-Programming-Principles-Part1\OOPPrinciplesPart1Homework\AnimalHierarchy\obj\Debug\AnimalHierarchy.exe
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\04. Object-Oriented-Programming-Principles-Part1\OOPPrinciplesPart1Homework\AnimalHierarchy\obj\Debug\AnimalHierarchy.pdb

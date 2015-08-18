@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\03. Extensions-Methods-Delegates-Lambda-LINQ\ExtensionsMethDeleLamLINQ\Extension-Delegates-AndOther\bin\Debug\Extension-Delegates-AndOther.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\03. Extensions-Methods-Delegates-Lambda-LINQ\ExtensionsMethDeleLamLINQ\Extension-Delegates-AndOther\bin\Debug\Extension-Delegates-AndOther.exe
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\03. Extensions-Methods-Delegates-Lambda-LINQ\ExtensionsMethDeleLamLINQ\Extension-Delegates-AndOther\bin\Debug\Extension-Delegates-AndOther.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\03. Extensions-Methods-Delegates-Lambda-LINQ\ExtensionsMethDeleLamLINQ\Extension-Delegates-AndOther\obj\Debug\Extension-Delegates-AndOther.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\03. Extensions-Methods-Delegates-Lambda-LINQ\ExtensionsMethDeleLamLINQ\Extension-Delegates-AndOther\obj\Debug\Extension-Delegates-AndOther.exe
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\03. Extensions-Methods-Delegates-Lambda-LINQ\ExtensionsMethDeleLamLINQ\Extension-Delegates-AndOther\obj\Debug\Extension-Delegates-AndOther.pdb

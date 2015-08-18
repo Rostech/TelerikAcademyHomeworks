@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\04. Object-Oriented-Programming-Principles-Part1\OOPPrinciplesPart1Homework\SchoolClasses\bin\Debug\SchoolClasses.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\04. Object-Oriented-Programming-Principles-Part1\OOPPrinciplesPart1Homework\SchoolClasses\obj\Debug\SchoolClasses.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\04. Object-Oriented-Programming-Principles-Part1\OOPPrinciplesPart1Homework\SchoolClasses\bin\Debug\SchoolClasses.exe
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\04. Object-Oriented-Programming-Principles-Part1\OOPPrinciplesPart1Homework\SchoolClasses\bin\Debug\SchoolClasses.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\04. Object-Oriented-Programming-Principles-Part1\OOPPrinciplesPart1Homework\SchoolClasses\obj\Debug\SchoolClasses.exe
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\04. Object-Oriented-Programming-Principles-Part1\OOPPrinciplesPart1Homework\SchoolClasses\obj\Debug\SchoolClasses.pdb

@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\05. Object-Oriented-Programming-Principles-Part2\OOPPrinciplesPart2Homework\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\05. Object-Oriented-Programming-Principles-Part2\OOPPrinciplesPart2Homework\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\05. Object-Oriented-Programming-Principles-Part2\OOPPrinciplesPart2Homework\Shapes\bin\Debug\Shapes.exe
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\05. Object-Oriented-Programming-Principles-Part2\OOPPrinciplesPart2Homework\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\05. Object-Oriented-Programming-Principles-Part2\OOPPrinciplesPart2Homework\Shapes\obj\Debug\Shapes.exe
+C:\Users\Rostislav\Documents\Telerik Academy\OOP\05. Object-Oriented-Programming-Principles-Part2\OOPPrinciplesPart2Homework\Shapes\obj\Debug\Shapes.pdb
