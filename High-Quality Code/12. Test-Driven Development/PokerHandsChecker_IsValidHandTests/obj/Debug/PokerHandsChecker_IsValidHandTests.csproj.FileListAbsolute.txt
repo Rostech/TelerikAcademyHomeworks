@@ -1,0 +1,8 @@
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\PokerHandsChecker_IsValidHandTests\bin\Debug\PokerHandsChecker_IsValidHandTests.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\PokerHandsChecker_IsValidHandTests\bin\Debug\PokerHandsChecker_IsValidHandTests.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\PokerHandsChecker_IsValidHandTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\PokerHandsChecker_IsValidHandTests\bin\Debug\Poker.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\PokerHandsChecker_IsValidHandTests\bin\Debug\Poker.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\PokerHandsChecker_IsValidHandTests\obj\Debug\PokerHandsChecker_IsValidHandTests.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\PokerHandsChecker_IsValidHandTests\obj\Debug\PokerHandsChecker_IsValidHandTests.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\PokerHandsChecker_IsValidHandTests\obj\Debug\PokerHandsChecker_IsValidHandTests.pdb

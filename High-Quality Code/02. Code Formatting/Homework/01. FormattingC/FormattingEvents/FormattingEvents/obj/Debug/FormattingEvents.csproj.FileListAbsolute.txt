@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\02. Code Formatting\FormattingEvents\FormattingEvents\bin\Debug\FormattingEvents.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\02. Code Formatting\FormattingEvents\FormattingEvents\obj\Debug\FormattingEvents.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\02. Code Formatting\FormattingEvents\FormattingEvents\bin\Debug\FormattingEvents.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\02. Code Formatting\FormattingEvents\FormattingEvents\bin\Debug\FormattingEvents.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\02. Code Formatting\FormattingEvents\FormattingEvents\obj\Debug\FormattingEvents.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\02. Code Formatting\FormattingEvents\FormattingEvents\obj\Debug\FormattingEvents.pdb

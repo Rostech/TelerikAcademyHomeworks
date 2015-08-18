@@ -1,0 +1,8 @@
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\HandTesting\bin\Debug\HandTesting.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\HandTesting\bin\Debug\HandTesting.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\HandTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\HandTesting\bin\Debug\Poker.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\HandTesting\bin\Debug\Poker.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\HandTesting\obj\Debug\HandTesting.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\HandTesting\obj\Debug\HandTesting.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\HandTesting\obj\Debug\HandTesting.pdb

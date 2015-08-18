@@ -1,0 +1,5 @@
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\09. Defensive Programming and Exceptions\Homework\Assertions-Homework\bin\Debug\Assertions-Homework.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\09. Defensive Programming and Exceptions\Homework\Assertions-Homework\bin\Debug\Assertions-Homework.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\09. Defensive Programming and Exceptions\Homework\Assertions-Homework\obj\Debug\Assertions-Homework.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\09. Defensive Programming and Exceptions\Homework\Assertions-Homework\obj\Debug\Assertions-Homework.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\09. Defensive Programming and Exceptions\Homework\Assertions-Homework\obj\Debug\Assertions-Homework.pdb

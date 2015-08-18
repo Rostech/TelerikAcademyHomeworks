@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shfbBuild product="Sandcastle Help File Builder" version="2015.1.12.0" projectFile="C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\CodeDocumentationHomework\asd.shfbproj" started="7/6/2015 11:13:05 PM">
+<buildStep step="Initializing">
+Finding tools...
+The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
+Searching for HTML Help 1 compiler...
+Found HTML Help 1 compiler in &#39;C:\Program Files (x86)\HTML Help Workshop\&#39;
+Locating components in the following folder(s):
+   C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\CodeDocumentationHomework
+Using presentation style &#39;VS2013&#39; located in &#39;C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\CodeDocumentationHomework\packages\EWSoftware.SHFB.2014.11.22.0\tools\PresentationStyles\VS2013&#39;
+Loading and initializing plug-ins...
+Lightweight Website Style Version 2015.1.12.0
+Copyright &#169; 2006-2015, Eric Woodruff, All Rights Reserved
+Portions Copyright &#169; 2014, Sam Harwell, All Rights Reserved
+</buildStep>
+<buildStep step="ClearWorkFolder">
+Clearing working folder...
+</buildStep>
+<buildStep step="ValidatingDocumentationSources">
+Validating and copying documentation source information
+Source: C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\CodeDocumentationHomework\bin\Debug\StringExtensions.dll
+    Found assembly &#39;C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\CodeDocumentationHomework\bin\Debug\StringExtensions.dll&#39;
+Source: C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\CodeDocumentationHomework\bin\Debug\StringExtensions.xml
+
+Copying XML comments files
+    C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\CodeDocumentationHomework\bin\Debug\StringExtensions.XML -&gt; C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\CodeDocumentationHomework\Help\Working\StringExtensions.XML
+</buildStep>
+<buildStep step="GenerateSharedContent">
+Generating shared content files (en-US, English (United States))...
+<plugIn name="Lightweight Website Style" behavior="After" priority="1000">
+</plugIn>    Last step completed in 00:00:00.1571
+</buildStep>
+<buildStep step="GenerateApiFilter">
+Generating API filter for MRefBuilder...
+    Last step completed in 00:00:00.0140
+</buildStep>
+<buildStep step="GenerateReflectionInfo">
+Generating reflection information...
+[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
+Build started 7/6/2015 11:13:10 PM.
+Project &quot;C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\CodeDocumentationHomework\Help\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
+PrepareForBuild:
+  Creating directory &quot;obj\Debug\&quot;.
+GenerateRefInfo:
+  MRefBuilder (v2015.1.12.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Loaded 1 assemblies for reflection and 1 dependency assemblies.
+  Wrote information on 1 namespaces, 1 types, and 16 members
+  Copying file from &quot;reflection.org&quot; to &quot;reflection.all&quot;.
+  XslTransform (v2015.1.12.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\MergeDuplicates.xsl&#39;.
+Done Building Project &quot;C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\CodeDocumentationHomework\Help\Working\GenerateRefInfo.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.12
+    Last step completed in 00:00:08.7680
+</buildStep>
+<buildStep step="TransformReflectionInfo">
+Transforming reflection output...
+[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
+Build started 7/6/2015 11:13:19 PM.
+Project &quot;C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\CodeDocumentationHomework\Help\Working\TransformManifest.proj&quot; on node 1 (default targets).
+TransformManifest:
+  XslTransform (v2015.1.12.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\ApplyVSDocModel.xsl&#39;.
+  Copying file from &quot;reflection.xml&quot; to &quot;reflection.nofilenames&quot;.
+  XslTransform (v2015.1.12.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\AddFilenames.xsl&#39;.
+  XslTransform (v2015.1.12.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\ReflectionToManifest.xsl&#39;.
+Done Building Project &quot;C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\CodeDocumentationHomework\Help\Working\TransformManifest.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.60
+    Last step completed in 00:00:07.4067
+</buildStep>
+<buildStep step="GenerateNamespaceSummaries">
+Generating namespace summary information...
+    Last step completed in 00:00:00.1452
+</buildStep>
+<buildStep step="CopyAdditionalContent">
+Copying additional content files...
+No additional content to copy
+    Last step completed in 00:00:00.0345
+</buildStep>
+<buildStep step="MergeTablesOfContents">
+Merging conceptual and additional tables of contents...
+    Last step completed in 00:00:00.0050
+</buildStep>
+<buildStep step="GenerateIntermediateTableOfContents">
+Generating intermediate table of contents file...
+[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
+Build started 7/6/2015 11:13:27 PM.
+Project &quot;C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\CodeDocumentationHomework\Help\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
+GenerateIntermediateTOC:
+  XslTransform (v2015.1.12.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\CreateVSToc.xsl&#39;.
+Done Building Project &quot;C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\CodeDocumentationHomework\Help\Working\GenerateIntermediateTOC.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.15
+Generating conceptual content intermediate TOC file...
+    Last step completed in 00:00:06.2280
+</buildStep>
+<buildStep step="CreateBuildAssemblerConfigs">
+Creating Sandcastle configuration files...
+    sandcastle.config
+    Last step completed in 00:00:01.0371
+</buildStep>
+<buildStep step="MergeCustomConfigs">
+Merging custom build component configurations
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\CodeDocumentationHomework\Help\Working\sandcastle.config
+    Last step completed in 00:00:00.1185
+</buildStep>
+<buildStep step="BuildReferenceTopics">
+Building reference help topics...
+[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
+Build started 7/6/2015 11:13:34 PM.
+Project &quot;C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\CodeDocumentationHomework\Help\Working\BuildReferenceTopics.proj&quot; on node 1 (default targets).
+BuildReferenceTopics:
+  BuildAssembler (v2015.1.12.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Loading configuration...
+BuildAssembler : error :  [C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\CodeDocumentationHomework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : error : BuildAssemblerCore: An unexpected error occurred while attempting to create the build component &#39;Copy From Index Component&#39;. The error message is: Could not find a part of the path &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Data\Reflection&#39;. [C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\CodeDocumentationHomework\Help\Working\BuildReferenceTopics.proj]
+Done Building Project &quot;C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\CodeDocumentationHomework\Help\Working\BuildReferenceTopics.proj&quot; (default targets) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:07.98
+    Last step completed in 00:00:10.2011
+</buildStep>
+<buildStep step="Failed">
+
+SHFB: Error BE0043: Unexpected error detected in last build step.  See output above for details.
+   at SandcastleBuilder.Utils.BuildEngine.BuildProcess.RunProcess(String fileToRun, String args)
+   at SandcastleBuilder.Utils.BuildEngine.BuildProcess.Build()
+
+</buildStep>
+</shfbBuild>

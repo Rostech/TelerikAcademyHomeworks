@@ -1,0 +1,5 @@
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\11. Unit Testing\Homework\StudentsAndCourses\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\11. Unit Testing\Homework\StudentsAndCourses\School\bin\Debug\School.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\11. Unit Testing\Homework\StudentsAndCourses\School\bin\Debug\School.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\11. Unit Testing\Homework\StudentsAndCourses\School\obj\Debug\School.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\11. Unit Testing\Homework\StudentsAndCourses\School\obj\Debug\School.pdb

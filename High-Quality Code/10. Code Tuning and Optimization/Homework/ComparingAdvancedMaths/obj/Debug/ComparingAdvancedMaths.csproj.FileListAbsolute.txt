@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\10. Code Tuning and Optimization\Homework\ComparingAdvancedMaths\bin\Debug\ComparingAdvancedMaths.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\10. Code Tuning and Optimization\Homework\ComparingAdvancedMaths\bin\Debug\ComparingAdvancedMaths.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\10. Code Tuning and Optimization\Homework\ComparingAdvancedMaths\bin\Debug\ComparingAdvancedMaths.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\10. Code Tuning and Optimization\Homework\ComparingAdvancedMaths\obj\Debug\ComparingAdvancedMaths.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\10. Code Tuning and Optimization\Homework\ComparingAdvancedMaths\obj\Debug\ComparingAdvancedMaths.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\10. Code Tuning and Optimization\Homework\ComparingAdvancedMaths\obj\Debug\ComparingAdvancedMaths.pdb

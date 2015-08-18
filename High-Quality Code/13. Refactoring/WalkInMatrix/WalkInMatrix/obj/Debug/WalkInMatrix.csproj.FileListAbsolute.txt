@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\13. Refactoring\WalkInMatrix\WalkInMatrix\bin\Debug\WalkInMatrix.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\13. Refactoring\WalkInMatrix\WalkInMatrix\obj\Debug\WalkInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\13. Refactoring\WalkInMatrix\WalkInMatrix\bin\Debug\WalkInMatrix.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\13. Refactoring\WalkInMatrix\WalkInMatrix\bin\Debug\WalkInMatrix.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\13. Refactoring\WalkInMatrix\WalkInMatrix\obj\Debug\WalkInMatrix.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\13. Refactoring\WalkInMatrix\WalkInMatrix\obj\Debug\WalkInMatrix.pdb

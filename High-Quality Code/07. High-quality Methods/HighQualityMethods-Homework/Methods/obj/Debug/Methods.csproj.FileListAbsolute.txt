@@ -1,0 +1,5 @@
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\07. High-quality Methods\HighQualityMethods-Homework\Methods\bin\Debug\Methods.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\07. High-quality Methods\HighQualityMethods-Homework\Methods\bin\Debug\Methods.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\07. High-quality Methods\HighQualityMethods-Homework\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\07. High-quality Methods\HighQualityMethods-Homework\Methods\obj\Debug\Methods.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\07. High-quality Methods\HighQualityMethods-Homework\Methods\obj\Debug\Methods.pdb

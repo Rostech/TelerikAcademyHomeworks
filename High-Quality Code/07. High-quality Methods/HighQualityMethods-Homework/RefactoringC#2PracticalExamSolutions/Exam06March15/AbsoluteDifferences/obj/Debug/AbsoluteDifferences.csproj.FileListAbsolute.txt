@@ -1,0 +1,10 @@
+C:\Users\Rostislav\Desktop\Exam06March15\AbsoluteDifferences\bin\Debug\AbsoluteDifferences.exe.config
+C:\Users\Rostislav\Desktop\Exam06March15\AbsoluteDifferences\bin\Debug\AbsoluteDifferences.exe
+C:\Users\Rostislav\Desktop\Exam06March15\AbsoluteDifferences\bin\Debug\AbsoluteDifferences.pdb
+C:\Users\Rostislav\Desktop\Exam06March15\AbsoluteDifferences\obj\Debug\AbsoluteDifferences.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Desktop\Exam06March15\AbsoluteDifferences\obj\Debug\AbsoluteDifferences.exe
+C:\Users\Rostislav\Desktop\Exam06March15\AbsoluteDifferences\obj\Debug\AbsoluteDifferences.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\07. High-quality Methods\HighQualityMethods-Homework\RefactoringC#2PracticalExamSolutions\Exam06March15\AbsoluteDifferences\obj\Debug\AbsoluteDifferences.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\07. High-quality Methods\HighQualityMethods-Homework\RefactoringC#2PracticalExamSolutions\Exam06March15\AbsoluteDifferences\obj\Debug\AbsoluteDifferences.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\07. High-quality Methods\HighQualityMethods-Homework\RefactoringC#2PracticalExamSolutions\Exam06March15\AbsoluteDifferences\obj\Debug\AbsoluteDifferences.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\07. High-quality Methods\HighQualityMethods-Homework\RefactoringC#2PracticalExamSolutions\Exam06March15\AbsoluteDifferences\bin\Debug\AbsoluteDifferences.exe.config

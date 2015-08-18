@@ -1,0 +1,12 @@
+C:\Users\Rostislav\Desktop\Exam06March15\DeCatCoding\bin\Debug\DeCatCoding.exe.config
+C:\Users\Rostislav\Desktop\Exam06March15\DeCatCoding\obj\Debug\DeCatCoding.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Desktop\Exam06March15\DeCatCoding\bin\Debug\DeCatCoding.exe
+C:\Users\Rostislav\Desktop\Exam06March15\DeCatCoding\bin\Debug\DeCatCoding.pdb
+C:\Users\Rostislav\Desktop\Exam06March15\DeCatCoding\obj\Debug\DeCatCoding.exe
+C:\Users\Rostislav\Desktop\Exam06March15\DeCatCoding\obj\Debug\DeCatCoding.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\07. High-quality Methods\HighQualityMethods-Homework\RefactoringC#2PracticalExamSolutions\Exam06March15\DeCatCoding\bin\Debug\DeCatCoding.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\07. High-quality Methods\HighQualityMethods-Homework\RefactoringC#2PracticalExamSolutions\Exam06March15\DeCatCoding\obj\Debug\DeCatCoding.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\07. High-quality Methods\HighQualityMethods-Homework\RefactoringC#2PracticalExamSolutions\Exam06March15\DeCatCoding\obj\Debug\DeCatCoding.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\07. High-quality Methods\HighQualityMethods-Homework\RefactoringC#2PracticalExamSolutions\Exam06March15\DeCatCoding\bin\Debug\DeCatCoding.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\07. High-quality Methods\HighQualityMethods-Homework\RefactoringC#2PracticalExamSolutions\Exam06March15\DeCatCoding\bin\Debug\DeCatCoding.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\07. High-quality Methods\HighQualityMethods-Homework\RefactoringC#2PracticalExamSolutions\Exam06March15\DeCatCoding\obj\Debug\DeCatCoding.csprojResolveAssemblyReference.cache

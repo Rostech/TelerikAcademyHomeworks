@@ -1,0 +1,8 @@
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\PokerHandsChecker_IsFlushTest\bin\Debug\PokerHandsChecker_IsFlushTest.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\PokerHandsChecker_IsFlushTest\bin\Debug\PokerHandsChecker_IsFlushTest.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\PokerHandsChecker_IsFlushTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\PokerHandsChecker_IsFlushTest\bin\Debug\Poker.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\PokerHandsChecker_IsFlushTest\bin\Debug\Poker.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\PokerHandsChecker_IsFlushTest\obj\Debug\PokerHandsChecker_IsFlushTest.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\PokerHandsChecker_IsFlushTest\obj\Debug\PokerHandsChecker_IsFlushTest.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\PokerHandsChecker_IsFlushTest\obj\Debug\PokerHandsChecker_IsFlushTest.pdb

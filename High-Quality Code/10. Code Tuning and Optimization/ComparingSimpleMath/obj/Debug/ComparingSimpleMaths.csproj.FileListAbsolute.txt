@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\10. Code Tuning and Optimization\ComparingSimpleMath\bin\Debug\ComparingSimpleMath.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\10. Code Tuning and Optimization\ComparingSimpleMath\obj\Debug\ComparingSimpleMath.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\10. Code Tuning and Optimization\ComparingSimpleMath\obj\Debug\ComparingSimpleMath.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\10. Code Tuning and Optimization\ComparingSimpleMath\bin\Debug\ComparingSimpleMath.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\10. Code Tuning and Optimization\ComparingSimpleMath\bin\Debug\ComparingSimpleMath.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\10. Code Tuning and Optimization\ComparingSimpleMath\obj\Debug\ComparingSimpleMaths.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\11. Unit Testing\Homework\SantaseGameEngine.Deck.Tests\SantaseGameEngine.Deck.Tests\bin\Debug\SantaseGameEngine.Deck.Tests.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\11. Unit Testing\Homework\SantaseGameEngine.Deck.Tests\SantaseGameEngine.Deck.Tests\bin\Debug\SantaseGameEngine.Deck.Tests.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\11. Unit Testing\Homework\SantaseGameEngine.Deck.Tests\SantaseGameEngine.Deck.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\11. Unit Testing\Homework\SantaseGameEngine.Deck.Tests\SantaseGameEngine.Deck.Tests\bin\Debug\Santase.Logic.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\11. Unit Testing\Homework\SantaseGameEngine.Deck.Tests\SantaseGameEngine.Deck.Tests\bin\Debug\Santase.Logic.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\11. Unit Testing\Homework\SantaseGameEngine.Deck.Tests\SantaseGameEngine.Deck.Tests\obj\Debug\SantaseGameEngine.Deck.Tests.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\11. Unit Testing\Homework\SantaseGameEngine.Deck.Tests\SantaseGameEngine.Deck.Tests\obj\Debug\SantaseGameEngine.Deck.Tests.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\11. Unit Testing\Homework\SantaseGameEngine.Deck.Tests\SantaseGameEngine.Deck.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\11. Unit Testing\Homework\SantaseGameEngine.Deck.Tests\SantaseGameEngine.Deck.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\11. Unit Testing\Homework\SantaseGameEngine.Deck.Tests\SantaseGameEngine.Deck.Tests\obj\Debug\SantaseGameEngine.Deck.Tests.csprojResolveAssemblyReference.cache

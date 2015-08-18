@@ -1,0 +1,8 @@
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\StringExtensionsTest\StringExtensionsTest\bin\Debug\StringExtensionsTest.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\StringExtensionsTest\StringExtensionsTest\bin\Debug\StringExtensionsTest.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\StringExtensionsTest\StringExtensionsTest\bin\Debug\StringExtensionsTest.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\StringExtensionsTest\StringExtensionsTest\bin\Debug\StringExtensions.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\StringExtensionsTest\StringExtensionsTest\bin\Debug\StringExtensions.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\StringExtensionsTest\StringExtensionsTest\obj\Debug\StringExtensionsTest.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\StringExtensionsTest\StringExtensionsTest\obj\Debug\StringExtensionsTest.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\StringExtensionsTest\StringExtensionsTest\obj\Debug\StringExtensionsTest.pdb

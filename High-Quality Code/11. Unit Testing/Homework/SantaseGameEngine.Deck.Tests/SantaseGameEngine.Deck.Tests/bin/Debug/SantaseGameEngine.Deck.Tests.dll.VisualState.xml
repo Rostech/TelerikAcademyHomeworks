@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1009]C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\11. Unit Testing\Homework\SantaseGameEngine.Deck.Tests\SantaseGameEngine.Deck.Tests\bin\Debug\SantaseGameEngine.Deck.Tests.dll</TopNode>
+  <SelectedNode>[0-1009]C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\11. Unit Testing\Homework\SantaseGameEngine.Deck.Tests\SantaseGameEngine.Deck.Tests\bin\Debug\SantaseGameEngine.Deck.Tests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1009]C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\11. Unit Testing\Homework\SantaseGameEngine.Deck.Tests\SantaseGameEngine.Deck.Tests\bin\Debug\SantaseGameEngine.Deck.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1010]SantaseGameEngine" Expanded="true" />
+    <Node UniqueName="[0-1011]SantaseGameEngine.Tests" Expanded="true" />
+    <Node UniqueName="[0-1000]SantaseGameEngine.Tests.DeckTests" Expanded="true" />
+    <Node UniqueName="[0-1003]SantaseGameEngine.Tests.DeckTests.ReturningRightAmountOfCards" Expanded="true" />
+  </Nodes>
+</VisualState>

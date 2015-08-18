@@ -1,0 +1,2 @@
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\06. Control Structures, ifElse Statements and Loops\ControlStructures\ControlStructures\bin\Debug\ControlStructures.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\06. Control Structures, ifElse Statements and Loops\ControlStructures\ControlStructures\obj\Debug\ControlStructures.csprojResolveAssemblyReference.cache

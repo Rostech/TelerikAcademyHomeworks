@@ -1,0 +1,8 @@
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\CardTesting\bin\Debug\CardTesting.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\CardTesting\bin\Debug\CardTesting.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\CardTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\CardTesting\bin\Debug\Poker.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\CardTesting\bin\Debug\Poker.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\CardTesting\obj\Debug\CardTesting.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\CardTesting\obj\Debug\CardTesting.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\CardTesting\obj\Debug\CardTesting.pdb

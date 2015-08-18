@@ -1,0 +1,4 @@
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\CodeDocumentationHomework\bin\Release\StringExtensions.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\CodeDocumentationHomework\bin\Release\StringExtensions.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\CodeDocumentationHomework\obj\Release\StringExtensions.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\04. Code Documentation and Comments\CodeDocumentationHomework\obj\Release\StringExtensions.pdb

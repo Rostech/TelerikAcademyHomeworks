@@ -1,0 +1,8 @@
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\PokerHandsChecker_IsFourOfAKindTest\bin\Debug\PokerHandsChecker_IsFourOfAKindTest.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\PokerHandsChecker_IsFourOfAKindTest\bin\Debug\PokerHandsChecker_IsFourOfAKindTest.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\PokerHandsChecker_IsFourOfAKindTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\PokerHandsChecker_IsFourOfAKindTest\bin\Debug\Poker.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\PokerHandsChecker_IsFourOfAKindTest\bin\Debug\Poker.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\PokerHandsChecker_IsFourOfAKindTest\obj\Debug\PokerHandsChecker_IsFourOfAKindTest.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\PokerHandsChecker_IsFourOfAKindTest\obj\Debug\PokerHandsChecker_IsFourOfAKindTest.dll
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\12. Test-Driven Development\PokerHandsChecker_IsFourOfAKindTest\obj\Debug\PokerHandsChecker_IsFourOfAKindTest.pdb
