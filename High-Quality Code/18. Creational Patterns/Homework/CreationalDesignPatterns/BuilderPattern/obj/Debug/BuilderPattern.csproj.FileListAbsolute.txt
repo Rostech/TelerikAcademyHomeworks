@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\18. Creational Patterns\Homework\CreationalDesignPatterns\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\18. Creational Patterns\Homework\CreationalDesignPatterns\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\18. Creational Patterns\Homework\CreationalDesignPatterns\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\18. Creational Patterns\Homework\CreationalDesignPatterns\BuilderPattern\obj\Debug\BuilderPattern.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\18. Creational Patterns\Homework\CreationalDesignPatterns\BuilderPattern\obj\Debug\BuilderPattern.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\18. Creational Patterns\Homework\CreationalDesignPatterns\BuilderPattern\obj\Debug\BuilderPattern.pdb

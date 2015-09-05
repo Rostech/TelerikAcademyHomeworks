@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\18. Creational Patterns\Homework\CreationalDesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\18. Creational Patterns\Homework\CreationalDesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\18. Creational Patterns\Homework\CreationalDesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\18. Creational Patterns\Homework\CreationalDesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\18. Creational Patterns\Homework\CreationalDesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\18. Creational Patterns\Homework\CreationalDesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb
