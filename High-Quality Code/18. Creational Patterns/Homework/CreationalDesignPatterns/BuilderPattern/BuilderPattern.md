@@ -12,7 +12,7 @@
   *   Known uses
       Изграждане на XML документ.
   *   Implementation
-      [C# Example](https://githubrepositoryMyExample)
+      [C# Example](https://github.com/Rostech/TelerikAcademyHomeworks/tree/master/High-Quality%20Code/18.%20Creational%20Patterns/Homework/CreationalDesignPatterns/BuilderPattern)
   *   Participants
       *   Builder - този клас представлява абстрактен интерфейс за създаване на части от Product обекта.
       *   ConcreteBuilder - конструира и свързва частите на обекта, чрез имплементирането на Builder интерфейса.

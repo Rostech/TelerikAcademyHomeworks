@@ -1,13 +1,3 @@
-# Creational Patterns Homework
-
-*   Select 3 creational design patterns
-    *   Write a short description (about half page) for each of them
-        *   Describe their motivation, intent, applicability, known uses, implementation, participants, consequences, structure, related patterns, etc.
-        *   Use [Markdown](https://help.github.com/articles/github-flavored-markdown/) for the description (`.md` files) and upload it on your own GitHub
-        *   Prefer Bulgarian language
-    *   Provide your own C# examples for their use
-    *   Provide a UML diagram or image of the pattern
-
 # Factory Method Pattern
 
   *   Motivation
@@ -22,7 +12,7 @@
   *   Known uses
       Този метод позволява на клиента да създава нов обекти без да трябва да знае детайлите относно начина, по който се създават или какви зависимости притежават.
   *   Implementation
-      [C# Example](https://githubrepositoryMyExample)
+      [C# Example](https://github.com/Rostech/TelerikAcademyHomeworks/tree/master/High-Quality%20Code/18.%20Creational%20Patterns/Homework/CreationalDesignPatterns/FactoryMethod)
   *   Participants
       *   Product - дефинира интерфейсът за обектите които factoryMethod създава.
       *   ConcreteProduct - имплементира интерфейсът на Product.
