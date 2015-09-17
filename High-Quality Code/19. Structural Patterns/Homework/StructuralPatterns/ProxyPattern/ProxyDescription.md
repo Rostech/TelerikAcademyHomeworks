@@ -12,7 +12,7 @@
   *   Known uses
        Използва се за контролиране достъпа до обектите в много обектно-ориантирани езици.
   *   Implementation
-      [C# Example](https://github.com/Rostech/TelerikAcademyHomeworks/tree/master/High-Quality%20Code/18.%20Creational%20Patterns/Homework/CreationalDesignPatterns/AbstractFactory)
+      [C# Example](https://github.com/Rostech/TelerikAcademyHomeworks/tree/master/High-Quality%20Code/19.%20Structural%20Patterns/Homework/StructuralPatterns/ProxyPattern)
   *   Participants
         * Subject - Интерфейс имплементиран от RealSubject и престявящ сървиси. Този интерфейс трябва да бъде имплементиран от Proxy-то.
         * Proxy

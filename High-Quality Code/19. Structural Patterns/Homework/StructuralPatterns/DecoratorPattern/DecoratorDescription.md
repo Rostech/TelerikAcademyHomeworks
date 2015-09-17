@@ -9,7 +9,7 @@
   *   Known uses
         GUI инструменти.
   *   Implementation
-      [C# Example](https://github.com/Rostech/TelerikAcademyHomeworks/tree/master/High-Quality%20Code/18.%20Creational%20Patterns/Homework/CreationalDesignPatterns/AbstractFactory)
+      [C# Example] (https://github.com/Rostech/TelerikAcademyHomeworks/tree/master/High-Quality%20Code/19.%20Structural%20Patterns/Homework/StructuralPatterns/DecoratorPattern)
   *   Participants
         * Component - интерфейс за обекти, на които могат да се добавят функционалности динамично.
         * ConcreteComponent - Дефинира обекта, към който ще се добавят функционалности.
