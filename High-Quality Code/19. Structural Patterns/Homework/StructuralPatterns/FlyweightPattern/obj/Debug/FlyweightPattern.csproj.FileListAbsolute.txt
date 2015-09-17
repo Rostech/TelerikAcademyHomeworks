@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\19. Structural Patterns\Homework\StructuralPatterns\FlyweightPattern\bin\Debug\FlyweightPattern.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\19. Structural Patterns\Homework\StructuralPatterns\FlyweightPattern\bin\Debug\FlyweightPattern.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\19. Structural Patterns\Homework\StructuralPatterns\FlyweightPattern\bin\Debug\FlyweightPattern.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\19. Structural Patterns\Homework\StructuralPatterns\FlyweightPattern\obj\Debug\FlyweightPattern.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\19. Structural Patterns\Homework\StructuralPatterns\FlyweightPattern\obj\Debug\FlyweightPattern.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\19. Structural Patterns\Homework\StructuralPatterns\FlyweightPattern\obj\Debug\FlyweightPattern.pdb

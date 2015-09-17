@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightPattern", "FlyweightPattern\FlyweightPattern.csproj", "{16A4FA8C-96D3-4B9D-8FFC-EF562A7C29C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{2ED74339-857C-42CB-9CB6-4F3B050E25BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "ProxyPattern\ProxyPattern.csproj", "{9DB72E09-553F-42A1-9BD0-FB1625AD0CD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16A4FA8C-96D3-4B9D-8FFC-EF562A7C29C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A4FA8C-96D3-4B9D-8FFC-EF562A7C29C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A4FA8C-96D3-4B9D-8FFC-EF562A7C29C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A4FA8C-96D3-4B9D-8FFC-EF562A7C29C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ED74339-857C-42CB-9CB6-4F3B050E25BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ED74339-857C-42CB-9CB6-4F3B050E25BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ED74339-857C-42CB-9CB6-4F3B050E25BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ED74339-857C-42CB-9CB6-4F3B050E25BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DB72E09-553F-42A1-9BD0-FB1625AD0CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB72E09-553F-42A1-9BD0-FB1625AD0CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB72E09-553F-42A1-9BD0-FB1625AD0CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB72E09-553F-42A1-9BD0-FB1625AD0CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
