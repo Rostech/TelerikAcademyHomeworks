@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\20. Behavioral Patterns\Homework\BehavioralPatterns\InterpreterPattern\bin\Debug\InterpreterPattern.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\20. Behavioral Patterns\Homework\BehavioralPatterns\InterpreterPattern\bin\Debug\InterpreterPattern.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\20. Behavioral Patterns\Homework\BehavioralPatterns\InterpreterPattern\bin\Debug\InterpreterPattern.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\20. Behavioral Patterns\Homework\BehavioralPatterns\InterpreterPattern\obj\Debug\InterpreterPattern.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\20. Behavioral Patterns\Homework\BehavioralPatterns\InterpreterPattern\obj\Debug\InterpreterPattern.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\20. Behavioral Patterns\Homework\BehavioralPatterns\InterpreterPattern\obj\Debug\InterpreterPattern.pdb

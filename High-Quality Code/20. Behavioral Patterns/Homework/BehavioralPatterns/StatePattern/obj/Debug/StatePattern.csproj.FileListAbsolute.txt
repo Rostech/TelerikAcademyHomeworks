@@ -1,0 +1,6 @@
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\20. Behavioral Patterns\Homework\BehavioralPatterns\StatePattern\bin\Debug\StatePattern.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\20. Behavioral Patterns\Homework\BehavioralPatterns\StatePattern\bin\Debug\StatePattern.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\20. Behavioral Patterns\Homework\BehavioralPatterns\StatePattern\bin\Debug\StatePattern.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\20. Behavioral Patterns\Homework\BehavioralPatterns\StatePattern\obj\Debug\StatePattern.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\20. Behavioral Patterns\Homework\BehavioralPatterns\StatePattern\obj\Debug\StatePattern.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\20. Behavioral Patterns\Homework\BehavioralPatterns\StatePattern\obj\Debug\StatePattern.csprojResolveAssemblyReference.cache

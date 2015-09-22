@@ -1,0 +1,7 @@
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\20. Behavioral Patterns\Homework\BehavioralPatterns\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\20. Behavioral Patterns\Homework\BehavioralPatterns\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\20. Behavioral Patterns\Homework\BehavioralPatterns\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\20. Behavioral Patterns\Homework\BehavioralPatterns\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\20. Behavioral Patterns\Homework\BehavioralPatterns\StrategyPattern\obj\Debug\StrategyPattern.pdb
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\20. Behavioral Patterns\Homework\BehavioralPatterns\StrategyPattern\bin\Debug\StrategyPattern.exe.CodeAnalysisLog.xml
+C:\Users\Rostislav\Documents\Telerik Academy\High-Quality Code\20. Behavioral Patterns\Homework\BehavioralPatterns\StrategyPattern\bin\Debug\StrategyPattern.exe.lastcodeanalysissucceeded
